@@ -4,7 +4,7 @@ THANK YOU FOR SUPPORT <3
 
 Usage :
 
-<?php 
+php 
 
     //Load
       require_once "./list.function.php";
@@ -44,7 +44,7 @@ Usage :
     //Exemple 2 : var_dump(CountryList())['name'];
     
     
-?>
+
 
 
 
