@@ -1,4 +1,4 @@
-# PHP-Country-Check-
+# PHP Country Check
 Check a country  where name / iso3166 and more
 
   ______ _          _    _            _    ______   
