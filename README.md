@@ -1,21 +1,5 @@
 # PHP Country Check
 Check a country  where name / iso3166 and more
-
-  ______ _          _    _            _    ______   
- |  ____(_)        | |  | |          | |  |____  |  
- | |__   _ _ __ ___| |__| | __ _  ___| | __   / /___
- |  __| | | '__/ _ \  __  |/ _` |/ __| |/ /  / /_  /
- | |    | | | |  __/ |  | | (_| | (__|   <  / / / / 
- |_|    |_|_|  \___|_|  |_|\__,_|\___|_|\_\/_/ /___|
-                                                    
-                                                    
-
-
-Power By FireHack7z
-Channel   : https://www.youtube.com/channel/UCBu53oQEkGGGXXPdQ-09wyQ
-Twitter   : https://twitter.com/firehack7z
-Instagram : https://www.instagram.com/firehack7z/?hl=fr
-
 THANK YOU FOR SUPPORT <3
 
 Usage :
@@ -61,3 +45,10 @@ Usage :
     
     
 ?>
+
+
+
+Power By FireHack7z
+Channel   : https://www.youtube.com/channel/UCBu53oQEkGGGXXPdQ-09wyQ
+Twitter   : https://twitter.com/firehack7z
+Instagram : https://www.instagram.com/firehack7z/?hl=fr
